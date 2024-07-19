@@ -1,3 +1,5 @@
+#verificar qual é maior ou igual
+
 primeiro_valor = input('Digite um valor: ')
 segundo_valor = input('Digite outro valor: ')
 
