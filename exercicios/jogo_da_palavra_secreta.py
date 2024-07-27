@@ -16,7 +16,7 @@ usuário.
 """
 import os
 
-palavra_secreta = 'ovo'
+palavra_secreta = 'paralelepipedo'
 letras_acertadas = ''
 tentativas = 0
 
